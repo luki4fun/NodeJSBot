@@ -15,7 +15,7 @@ const headers = {
     'Content-Type':     'application/x-www-form-urlencoded'
 };
 const twitchBotAccounts = [
-   { login: '', oAuthKey: 'oauth:', channels: ['0x4c554b49'], isMaster: true, ADMIN: '' }
+   { login: '', oAuthKey: 'oauth:', channels: [''], isMaster: true, ADMIN: '' }
 ];
 const twitchAPI = new api({ id: "", secret: "" });
 
